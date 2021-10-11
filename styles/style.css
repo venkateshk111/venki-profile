@@ -3,7 +3,7 @@ body{
 }
 
 .home{
-    height: 100vh;
+    height: 110vh;
     background: linear-gradient(
         rgba(0,0,0,0.1),
         rgba(0,0,0,0.8)),
@@ -15,8 +15,8 @@ body{
 
 .intro{
     color: whitesmoke;
-    padding: 5% 20%;
-    text-align: justify;
+    padding: 15% 20%;
+    text-align: center;
     font-size: 18px;
     /* font-weight: 300; */
 
@@ -26,3 +26,37 @@ body{
     font-size: 75px;
     font-weight: 400;
 }
+
+.fa {
+    padding: 5px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 10px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-github {
+    background: #211F1F;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-udemy {
+    background: #A435F0;
+    color: white;
+  }
