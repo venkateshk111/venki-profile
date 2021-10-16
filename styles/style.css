@@ -13,19 +13,21 @@ body{
 }
 
 .home{
+    margin: 0;
+    width: 100vw;
     height: 100vh;
     background: linear-gradient(
         rgba(0,0,0,0.1),
         rgba(0,0,0,0.8)),
         url('../imgs/background.webp');
-    background-size: cover; 
+    background-size:cover; 
     /* background: url('../images/background.webp');
     background-size: cover; */
 }
 
 .intro{
     color: whitesmoke;
-    padding: 15% 20%;
+    padding: 10% 20%;
     text-align: center;
     font-size: 18px;
     /* font-weight: 300; */
@@ -52,22 +54,30 @@ body{
   }
   
   .fa-github {
-    background: #211F1F;
+    background: white;
     color: white;
+    inline-size: 50pt;
+    content:url(../imgs/github-icon.png);
   }
   
   .fa-linkedin {
     background: #007bb5;
     color: white;
+    inline-size: 50pt;
+    content:url(../imgs/linkedin-icon.png);
   }
   
   .fa-twitter {
-    background: #55ACEE;
+    background: white;
     color: white;
+    inline-size: 50pt;
+    content:url(../imgs/twitter-logo.png);
   }
 
   .fa-udemy {
     background: #A435F0;
     color: white;
+    inline-size: 50pt;
+    content:url(../imgs/udemy-icon.png);
   }
 
