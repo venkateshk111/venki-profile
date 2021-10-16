@@ -1,5 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	/* font-family: 'Barlow Condensed', sans-serif; */
+  font-family: Georgia, serif;
+}
+
 body{
-    background-color: lightgray;
+   background-color: whitesmoke;
+   /* background-color: unset; */
 }
 
 .home{
@@ -60,3 +70,4 @@ body{
     background: #A435F0;
     color: white;
   }
+
