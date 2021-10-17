@@ -50,7 +50,7 @@ Venkatesh is an Engineer at heart. He is a currently working with IBM, Designing
 <a href="https://www.linkedin.com/in/venkatesh111/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@venkatesh111-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/venkatesh111" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/venkatesh111?style=social"></a>
 <a href="mailto:venkatesh111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-venkatesh111@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.WorkInProgress.in" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.WorkInProgress.in-blue?style=flat&logo=google-chrome"></a>
+<a href="https://venkateshk111.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://venkateshk111.github.io-blue?style=flat&logo=google-chrome"></a>
 </p>
 
 
